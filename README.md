@@ -1,4 +1,4 @@
-# Booking - created in 2021
+# Booking
 
 ### Website created with:
 
